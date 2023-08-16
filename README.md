@@ -23,3 +23,6 @@ comp below (Country Details)
 5. All business logic in this phase should include adequate unit tests so that it is testable by peer code reviewers
 7. Note: You can skip microphone support for Phase 1
 Note: Use appropriate SFSymbol wherever needed.
+![Simulator Screen Shot - iPhone 14 - 2023-08-16 at 15 07 41](https://github.com/heglinjon/RestCountries/assets/139373717/b784dae7-7d92-4501-be6f-b92926e7306c)
+
+
